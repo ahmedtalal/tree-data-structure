@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608764444 source:d:\collage\terms1\ds\ds_projects\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"treeList.h"
+
+1608764330 d:\collage\terms1\ds\ds_projects\tree\treelist.h
+
+1608764602 source:d:\collage\terms1\ds\ds_projects\tree\treelist.c
+	"treeList.h"
+	<stddef.h>
+
